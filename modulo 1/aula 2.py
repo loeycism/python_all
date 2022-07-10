@@ -1,3 +1,5 @@
+#aula 2
+# comandos básicos e interação com o usuário
 #O que são variáveis e como manipulá-las através de operadores aritméticos e interação com usuário
 
 #a = 10
