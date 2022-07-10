@@ -1,6 +1,6 @@
 #Como criar um código em Python que funcione de acordo com a relação das variáveis
 
-#como usar os condicionais (IF, ELSE e ELIF) e os operadores lógicos (AND, OR e NOT)
+#usando as condicionais (IF, ELSE e ELIF) e os operadores lógicos (AND, OR e NOT)
 
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor: '))
