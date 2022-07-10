@@ -1,4 +1,5 @@
 #Como criar laços de repetição em Python
+#usando o while
 
 #imprimindo todos os primos usando WHILE
 
