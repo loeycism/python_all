@@ -1,4 +1,5 @@
 # aula 3 parte 2
+#usando IF, ELSE, ELIF e OR NOT
 
 #como usar os condicionais (IF, ELSE e ELIF) e os operadores lógicos (AND, OR e NOT)
 
