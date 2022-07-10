@@ -1,4 +1,5 @@
 #Como criar laços de repetição em Python
+#usando o RANGE
 
 #Aprender o comando for, while e range
 
