@@ -1,5 +1,5 @@
 # aula 3 parte 3
-
+#usando IF, ELSE, ELIF e OR
 #como usar os condicionais (IF, ELSE e ELIF) e os operadores lógicos (AND, OR e NOT)
 
 a = int(input('entre com o primeiro valor: '))
