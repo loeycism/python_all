@@ -16,6 +16,7 @@ linguagem interpretada: significa que cada vez que temos de implementar python, 
 
 É mais parecido com a linguagem de que usamos no dia-a-dia do que com a linguagem binária (aquelas usadas por máquinas).
 <p><img src="https://cdn.discordapp.com/attachments/994764336125984778/995398854201577482/unknown.png" alt=""></p>
+
 ### Paradigmas de programação
 
 Os paradigmas são as diferntes abordagens que um programador pode utilizar para desenolver um código e resolver uma questão em especifico
