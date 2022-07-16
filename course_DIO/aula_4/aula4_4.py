@@ -1,6 +1,3 @@
-#aula 4 parte 4
-#usando o while como laço de repetição
-
 a = int(input('primeiro bimestre: '))
 while a > 10:
     a = int(input('Você digitou errado. Digite o valor correto: ')) 
