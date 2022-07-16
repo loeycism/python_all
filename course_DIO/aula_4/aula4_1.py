@@ -1,8 +1,3 @@
-#Como criar laços de repetição em Python
-#usando o RANGE
-
-#Aprender o comando for, while e range
-
 a = int(input('Entre com um número: '))
 div = 0
 for x in range(1, a+1):
