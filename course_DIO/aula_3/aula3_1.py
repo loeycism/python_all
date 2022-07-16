@@ -1,8 +1,4 @@
-#aula 3 parte 1
-#usando IF, ELSE, ELIF e AND
-#Como criar um código em Python que funcione de acordo com a relação das variáveis
-
-#usando as condicionais (IF, ELSE e ELIF) e os operadores lógicos (AND, OR e NOT)
+#CONDICIONAIS
 
 a = int(input('Primeiro valor: '))
 b = int(input('Segundo valor: '))
