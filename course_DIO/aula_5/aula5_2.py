@@ -1,6 +1,3 @@
-#aula 5.2 
-
-#incluir algo que não tem
 lista = [12, 10, 5, 7]
 lista_animais = ['gato', 'cachorro', 'papagaio']
 
