@@ -1,7 +1,3 @@
-#Como criar laços de repetição em Python
-#usando o for e o range
-#imprimindo todos os primos usando FOR
-
 a = int(input('Entre com um valor: '))
 for num in range(a+1):
     div = 0
