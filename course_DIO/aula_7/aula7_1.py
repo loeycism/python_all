@@ -1,5 +1,3 @@
-#CONJUNTOS
-
 #tupla ()
 #lista []
 #conjunto {}
