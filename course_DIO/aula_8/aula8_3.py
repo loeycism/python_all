@@ -16,6 +16,7 @@ class Calculadora:
     def multi(self, valor_a, valor_b):
         return valor_a * valor_b
 
+
 calculadora = Calculadora()
 
 print(calculadora.soma(5, 6))

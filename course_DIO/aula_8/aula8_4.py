@@ -28,7 +28,7 @@ print('TV está ligada: {}' .format(televisão.ligada))
 televisão.power()
 print('TV está ligada: {}' .format(televisão.ligada))
 
-##Canais##
+##Canais
 print('Canal atual quando ligada: {}' .format(televisão.canal))
 
 televisão.aumenta_canal()
